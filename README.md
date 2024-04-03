@@ -2,7 +2,7 @@
 
 En este práctico abordaremos algunos conceptos básicos sobre: 
 
-- Docker Repaso
+- Docker
 - Ejemplo descargar imagenes
 
 
